@@ -24,7 +24,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="flex items-center space-x-2">
-              <img className="w-12 h-12 text-green-600 group-hover:text-green-700 transition-colors" src="./images/Logo_Web_CEGM.png" />
+              <img className="w-12 h-12 text-green-600 group-hover:text-green-700 transition-colors" src="/images/Logo_Web_CEGM.png" />
               <div className="flex flex-col">
                 <span className="text-xl font-bold text-gray-900 dark:text-white group-hover:text-green-600 transition-colors">
                   CEGM
